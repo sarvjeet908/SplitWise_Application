@@ -1,0 +1,3 @@
+git remote add origin https://github.com/sarvjeet908/SplitWise_Application.git
+git branch -M main
+git push -u origin main
